@@ -1,0 +1,266 @@
+,sample_id,gender,study_condition,age_category,age
+1,ERR4043574,male,Control,young,32
+2,ERR4043442,female,Control,middle age,46
+3,ERR4043384,male,Control,middle age,50
+4,ERR4043321,male,Control,young,20
+5,ERR4043784,male,Control,middle age,46
+6,ERR4043430,female,Control,young,35
+7,ERR4043423,male,Control,young,39
+8,ERR4043778,male,Control,middle age,43
+9,ERR4043757,male,Control,senior,75
+10,ERR4043421,female,Control,young,37
+11,ERR4043172,female,Diseased,middle age,43
+12,ERR4043158,male,Diseased,middle age,56
+13,ERR4043154,female,Diseased,middle age,42
+14,ERR4043193,male,Diseased,middle age,55
+15,ERR4042850,female,Diseased,senior,83
+16,ERR4042937,male,Diseased,senior,86
+17,ERR4042904,female,Diseased,middle age,47
+18,ERR4043244,female,Diseased,middle age,49
+19,ERR4043083,male,Diseased,young,27
+20,ERR4042830,male,Diseased,middle age,42
+21,ERR4043776,male,Control,middle age,52
+22,ERR4043461,female,Control,middle age,49
+23,ERR4043636,female,Control,middle age,51
+24,ERR4043497,male,Control,senior,68
+25,ERR4043800,male,Control,middle age,53
+26,ERR4043361,female,Control,middle age,45
+27,ERR4043653,male,Control,middle age,51
+28,ERR4043635,male,Control,senior,81
+29,ERR4043389,female,Control,middle age,59
+30,ERR4043801,male,Control,middle age,52
+31,ERR4042920,male,Diseased,middle age,42
+32,ERR4042971,female,Diseased,middle age,57
+33,ERR4043038,male,Diseased,middle age,52
+34,ERR4043220,male,Diseased,young,26
+35,ERR4043130,male,Diseased,senior,61
+36,ERR4043146,female,Diseased,young,40
+37,ERR4042886,male,Diseased,middle age,43
+38,ERR4043298,male,Diseased,middle age,59
+39,ERR4043250,male,Diseased,middle age,58
+40,ERR4043437,male,Control,young,23
+41,ERR4043351,male,Control,senior,61
+42,ERR4043385,male,Control,middle age,50
+43,ERR4043486,male,Control,middle age,48
+44,ERR4043329,male,Control,middle age,50
+45,ERR4043739,male,Control,middle age,53
+46,ERR4043620,male,Control,middle age,60
+47,ERR4043628,female,Control,senior,86
+48,ERR4043454,male,Control,middle age,60
+49,ERR4043270,female,Diseased,middle age,60
+50,ERR4042960,male,Diseased,middle age,49
+51,ERR4042838,male,Diseased,middle age,56
+52,ERR4042975,male,Diseased,middle age,48
+53,ERR4043111,male,Diseased,middle age,47
+54,ERR4043123,male,Diseased,middle age,50
+55,ERR4043287,male,Diseased,young,23
+56,ERR4043257,male,Diseased,middle age,58
+57,ERR4043188,male,Diseased,middle age,48
+58,ERR4043294,male,Diseased,young,39
+59,ERR4043626,male,Control,middle age,50
+60,ERR4043709,male,Control,young,24
+61,ERR4043465,male,Control,middle age,57
+62,ERR4043590,male,Control,middle age,52
+63,ERR4043623,male,Control,middle age,42
+64,ERR4043782,male,Control,middle age,59
+65,ERR4043751,male,Control,middle age,53
+66,ERR4043433,male,Control,young,19
+67,ERR4043642,male,Control,senior,72
+68,ERR4042996,male,Diseased,middle age,50
+69,ERR4043212,male,Diseased,young,22
+70,ERR4043159,male,Diseased,middle age,45
+71,ERR4043233,male,Diseased,middle age,44
+72,ERR4043175,male,Diseased,middle age,58
+73,ERR4042963,male,Diseased,middle age,41
+74,ERR4042882,male,Diseased,middle age,56
+75,ERR4042927,male,Diseased,middle age,57
+76,ERR4043759,male,Control,senior,68
+77,ERR4043641,male,Control,senior,61
+78,ERR4043743,female,Control,middle age,58
+79,ERR4043466,male,Control,middle age,52
+80,ERR4043756,male,Control,senior,65
+81,ERR4043698,female,Control,young,20
+82,ERR4043646,female,Control,young,31
+83,ERR4043624,male,Control,middle age,56
+84,ERR4043621,male,Control,middle age,55
+85,ERR4043677,female,Control,middle age,59
+86,ERR4043241,male,Diseased,middle age,43
+87,ERR4042831,male,Diseased,middle age,54
+88,ERR4043202,male,Diseased,senior,75
+89,ERR4043073,male,Diseased,young,22
+90,ERR4043001,male,Diseased,senior,72
+91,ERR4043221,male,Diseased,young,36
+92,ERR4042870,female,Diseased,middle age,44
+93,ERR4043097,male,Diseased,middle age,52
+94,ERR4043559,male,Control,young,27
+95,ERR4043796,male,Control,middle age,50
+96,ERR4043732,male,Control,middle age,50
+97,ERR4043692,male,Control,senior,64
+98,ERR4043598,male,Control,middle age,58
+99,ERR4043358,female,Control,senior,68
+100,ERR4043696,male,Control,senior,81
+101,ERR4043602,male,Control,middle age,49
+102,ERR4043591,male,Control,middle age,51
+103,ERR4043120,male,Diseased,middle age,52
+104,ERR4043091,male,Diseased,middle age,48
+105,ERR4043179,female,Diseased,middle age,58
+106,ERR4043226,male,Diseased,middle age,45
+107,ERR4043005,male,Diseased,middle age,58
+108,ERR4042866,male,Diseased,young,36
+109,ERR4043251,male,Diseased,middle age,50
+110,ERR4042978,male,Diseased,middle age,49
+111,ERR4043812,male,Control,middle age,51
+112,ERR4043320,female,Control,young,28
+113,ERR4043792,female,Control,middle age,52
+114,ERR4043414,male,Control,senior,70
+115,ERR4043788,female,Control,middle age,44
+116,ERR4043729,male,Control,middle age,43
+117,ERR4043683,male,Control,middle age,54
+118,ERR4043718,female,Control,middle age,48
+119,ERR4043426,female,Control,young,27
+120,ERR4042899,male,Diseased,middle age,44
+121,ERR4043086,male,Diseased,young,23
+122,ERR4042991,male,Diseased,middle age,56
+123,ERR4042992,male,Diseased,middle age,56
+124,ERR4043078,female,Diseased,young,40
+125,ERR4043228,male,Diseased,middle age,50
+126,ERR4043185,male,Diseased,middle age,46
+127,ERR4043205,male,Diseased,senior,70
+128,ERR4042967,male,Diseased,middle age,44
+129,ERR4043592,male,Control,young,36
+130,ERR4043806,male,Control,middle age,44
+131,ERR4043412,male,Control,senior,77
+132,ERR4043770,female,Control,middle age,60
+133,ERR4043440,male,Control,young,24
+134,ERR4043502,male,Control,senior,65
+135,ERR4043609,male,Control,middle age,55
+136,ERR4043458,female,Control,middle age,45
+137,ERR4043619,male,Control,middle age,54
+138,ERR4043401,female,Control,middle age,55
+139,ERR4043194,male,Diseased,middle age,55
+140,ERR4043016,male,Diseased,middle age,56
+141,ERR4043292,male,Diseased,young,21
+142,ERR4043079,female,Diseased,young,18
+143,ERR4043003,female,Diseased,senior,63
+144,ERR4042999,male,Diseased,senior,62
+145,ERR4043142,male,Diseased,young,33
+146,ERR4043168,female,Diseased,middle age,56
+147,ERR4043763,male,Control,senior,87
+148,ERR4043599,male,Control,middle age,49
+149,ERR4043369,male,Control,young,37
+150,ERR4043393,male,Control,middle age,51
+151,ERR4043367,male,Control,young,20
+152,ERR4043637,male,Control,senior,85
+153,ERR4043463,male,Control,middle age,42
+154,ERR4043470,male,Control,middle age,46
+155,ERR4043472,male,Control,middle age,60
+156,ERR4043100,male,Diseased,middle age,54
+157,ERR4043209,male,Diseased,senior,89
+158,ERR4043262,male,Diseased,senior,69
+159,ERR4042857,male,Diseased,young,28
+160,ERR4042972,male,Diseased,middle age,42
+161,ERR4042956,male,Diseased,young,25
+162,ERR4043283,male,Diseased,senior,69
+163,ERR4042825,female,Diseased,young,38
+164,ERR4043366,male,Control,young,30
+165,ERR4043596,male,Control,middle age,48
+166,ERR4043606,female,Control,middle age,50
+167,ERR4043608,male,Control,middle age,45
+168,ERR4043582,male,Control,young,31
+169,ERR4043803,male,Control,middle age,46
+170,ERR4043615,female,Control,middle age,48
+171,ERR4042921,male,Diseased,middle age,60
+172,ERR4042849,female,Diseased,senior,78
+173,ERR4042941,male,Diseased,senior,88
+174,ERR4042883,male,Diseased,middle age,57
+175,ERR4042824,female,Diseased,young,38
+176,ERR4043299,male,Diseased,middle age,55
+177,ERR4042949,female,Diseased,young,40
+178,ERR4043295,female,Diseased,middle age,41
+179,ERR4043451,male,Control,middle age,45
+180,ERR4043429,male,Control,young,25
+181,ERR4043603,male,Control,young,27
+182,ERR4043686,male,Control,middle age,60
+183,ERR4043347,male,Control,senior,85
+184,ERR4043750,male,Control,middle age,56
+185,ERR4043388,male,Control,middle age,59
+186,ERR4043648,female,Control,young,24
+187,ERR4043229,male,Diseased,middle age,59
+188,ERR4043213,male,Diseased,young,27
+189,ERR4042820,female,Diseased,young,39
+190,ERR4043161,male,Diseased,middle age,46
+191,ERR4042863,female,Diseased,young,28
+192,ERR4043153,female,Diseased,middle age,44
+193,ERR4042895,female,Diseased,middle age,59
+194,ERR4043807,male,Control,middle age,42
+195,ERR4043408,male,Control,middle age,44
+196,ERR4043681,male,Control,middle age,51
+197,ERR4043579,male,Control,young,30
+198,ERR4043594,female,Control,middle age,59
+199,ERR4043765,male,Control,young,28
+200,ERR4043789,female,Control,middle age,56
+201,ERR4043374,male,Control,middle age,43
+202,ERR4043189,male,Diseased,middle age,41
+203,ERR4042848,male,Diseased,senior,71
+204,ERR4042903,female,Diseased,middle age,42
+205,ERR4042868,male,Diseased,young,26
+206,ERR4043237,male,Diseased,middle age,60
+207,ERR4043080,male,Diseased,young,40
+208,ERR4043746,male,Control,senior,72
+209,ERR4043494,male,Control,senior,88
+210,ERR4043392,male,Control,middle age,48
+211,ERR4043425,female,Control,young,18
+212,ERR4043783,male,Control,middle age,56
+213,ERR4043422,female,Control,young,34
+214,ERR4043444,female,Control,middle age,52
+215,ERR4043573,male,Control,young,38
+216,ERR4043258,male,Diseased,middle age,54
+217,ERR4043132,male,Diseased,senior,87
+218,ERR4043317,female,Diseased,middle age,45
+219,ERR4043249,male,Diseased,middle age,57
+220,ERR4043272,male,Diseased,middle age,51
+221,ERR4042843,female,Diseased,senior,78
+222,ERR4042969,male,Diseased,middle age,53
+223,ERR4043473,male,Control,middle age,48
+224,ERR4043634,male,Control,senior,70
+225,ERR4043340,male,Control,middle age,44
+226,ERR4043710,male,Control,young,31
+227,ERR4043577,female,Control,young,18
+228,ERR4043498,male,Control,senior,79
+229,ERR4043645,male,Control,young,21
+230,ERR4042981,male,Diseased,middle age,46
+231,ERR4042865,male,Diseased,young,18
+232,ERR4043107,female,Diseased,middle age,57
+233,ERR4043200,male,Diseased,senior,72
+234,ERR4042854,male,Diseased,young,25
+235,ERR4043309,male,Diseased,middle age,53
+236,ERR4043192,female,Diseased,middle age,46
+237,ERR4043104,male,Diseased,young,30
+238,ERR4043137,male,Diseased,middle age,48
+239,ERR4043726,female,Control,middle age,41
+240,ERR4043787,female,Control,middle age,56
+241,ERR4043735,male,Control,senior,83
+242,ERR4043658,male,Control,middle age,48
+243,ERR4043223,female,Diseased,middle age,54
+244,ERR4043288,male,Diseased,young,34
+245,ERR4043075,male,Diseased,young,38
+246,ERR4042893,female,Diseased,middle age,49
+247,ERR4043072,female,Diseased,young,38
+248,ERR4043141,male,Diseased,young,25
+249,ERR4042869,female,Diseased,middle age,60
+250,ERR4042933,male,Diseased,senior,79
+251,ERR4042837,male,Diseased,middle age,43
+252,ERR4043643,male,Control,young,35
+253,ERR4043633,male,Control,senior,70
+254,ERR4043694,female,Control,senior,69
+255,ERR4043722,female,Control,middle age,49
+256,ERR4043373,male,Control,middle age,47
+257,ERR4043323,male,Control,middle age,53
+258,ERR4043140,male,Diseased,young,30
+259,ERR4043112,male,Diseased,middle age,54
+260,ERR4043076,male,Diseased,young,20
+261,ERR4042914,male,Diseased,middle age,47
+262,ERR4042867,male,Diseased,young,19
+263,ERR4043187,female,Diseased,middle age,53
+264,ERR4042834,female,Diseased,middle age,52
+265,ERR4043105,female,Diseased,middle age,53

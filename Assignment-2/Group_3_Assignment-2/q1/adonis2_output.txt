@@ -1,0 +1,4 @@
+[1] "library(vegan)"
+Error in vegdist(abund_sub, method = "bray") : 
+  could not find function "vegdist"
+Execution halted
